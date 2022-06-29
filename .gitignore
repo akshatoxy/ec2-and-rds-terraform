@@ -1,0 +1,11 @@
+# Dependency files of terraform
+.terraform/
+.terraform.lock.hcl
+
+# State files of terraform
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.tfstate.lock.info
+
+# Variable files of terrafrom
+terraform.tfvars
