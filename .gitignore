@@ -1,6 +1,5 @@
 # Dependency files of terraform
 .terraform/
-.terraform.lock.hcl
 
 # State files of terraform
 terraform.tfstate
